@@ -3,7 +3,9 @@
 # JavaFX implementation of Lexi
 
 **Lexi** is a WYSIWYG (What You See Is What You Get) editor. This project was for my Object Oriented Design Patterns Class. Thus, each of the different assignments required use of explicit design patterns to make the final product very modular and easy to add on to
+
 **Motivation** - I've been reading the book(as most of you) and faced the questions like "How this pattern is implemented?" or "Is there an open-source implementation of Lexi?". After searching internet for the answers I decided to implement it all by myself.
+
 **Note**: Even though I've tried to implement stuff as described in the book, there are differences that I'll try to describe in the future.
 
 ## Pattern referencing
